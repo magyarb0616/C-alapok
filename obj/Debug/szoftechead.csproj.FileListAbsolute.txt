@@ -1,0 +1,10 @@
+C:\Users\bence\Desktop\szoftechead\bin\Debug\szoftechead.exe.config
+C:\Users\bence\Desktop\szoftechead\bin\Debug\szoftechead.exe
+C:\Users\bence\Desktop\szoftechead\bin\Debug\szoftechead.pdb
+C:\Users\bence\Desktop\szoftechead\obj\Debug\szoftechead.csprojAssemblyReference.cache
+C:\Users\bence\Desktop\szoftechead\obj\Debug\szoftechead.Properties.Resources.resources
+C:\Users\bence\Desktop\szoftechead\obj\Debug\szoftechead.csproj.GenerateResource.cache
+C:\Users\bence\Desktop\szoftechead\obj\Debug\szoftechead.csproj.CoreCompileInputs.cache
+C:\Users\bence\Desktop\szoftechead\obj\Debug\szoftechead.exe
+C:\Users\bence\Desktop\szoftechead\obj\Debug\szoftechead.pdb
+C:\Users\bence\Desktop\szoftechead\obj\Debug\szoftechead.Form1.resources
